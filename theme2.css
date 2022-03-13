@@ -1,0 +1,16 @@
+table{
+    width: 1000px;
+    height: 1000px;
+    length:50px;
+    
+    text-align: center;
+}
+
+
+
+body{
+    text-align: left;
+    background:url(buy2.jpg);
+    color: black;
+    background-size: cover;
+}
